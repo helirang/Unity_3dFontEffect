@@ -17,3 +17,6 @@
 - Position the font in the Effector A area
 - Effector A's Flattener Script => Target Renderes add Your font mesh Renderer
 <img width="60%" src="https://user-images.githubusercontent.com/66342017/197157151-3021a79a-3f19-474f-a709-0741bad40779.png"/>
+
+- Effect Control <- [ keijiro's ]
+<img width="60%" src="https://user-images.githubusercontent.com/66342017/197457435-1429eab8-8d15-49d0-a9f2-4c53aa820ec8.PNG"/>
