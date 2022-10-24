@@ -2,7 +2,8 @@
 - Unity HDRP 2019.4 HDRP [ specific 2019.4.38f1 ]
 - Use: https://github.com/keijiro/TestbedHDRP
 - 3D Font Model : Kurt Schuster
-- this project just applied keijiro's technology to a 3d font
+- It is a simple project using keijiro's technology in 3d font.
+
 ##### [caution]
 - Although the geometry shader effects are fun and exciting to use, I don't recommend using them in production. The geometry shader is near-obsolete technology. You will meet several problems if you use it in your product.
 
