@@ -22,3 +22,4 @@
 
 - Effect Control <- [ keijiro's ]
 <img width="60%" src="https://user-images.githubusercontent.com/66342017/197457435-1429eab8-8d15-49d0-a9f2-4c53aa820ec8.PNG"/>
+ 
