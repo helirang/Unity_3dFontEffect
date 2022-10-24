@@ -8,8 +8,8 @@
 - Although the geometry shader effects are fun and exciting to use, I don't recommend using them in production. The geometry shader is near-obsolete technology. You will meet several problems if you use it in your product.
 
 ##### IMG
-<img width="40%" src="https://user-images.githubusercontent.com/66342017/197154500-323706fa-5817-4c89-96f6-4ac900366d68.PNG"/> <img width="40%" src="https://user-images.githubusercontent.com/66342017/197154095-f6cd1881-9ad8-4c2c-93d9-9f31dee61430.PNG"/>
-<img width="25%" src="https://user-images.githubusercontent.com/66342017/197458939-fbf40562-5653-481d-aba2-e862b8075564.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/66342017/197154500-323706fa-5817-4c89-96f6-4ac900366d68.PNG"/> <img width="25%" src="https://user-images.githubusercontent.com/66342017/197458939-fbf40562-5653-481d-aba2-e862b8075564.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/66342017/197154095-f6cd1881-9ad8-4c2c-93d9-9f31dee61430.PNG"/>
 
 ##### GIF
 <img width="60%" src="https://user-images.githubusercontent.com/66342017/197155503-1ab1b393-444a-496c-bdf4-69370e42ca75.gif"/>
