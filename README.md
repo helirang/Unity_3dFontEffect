@@ -11,8 +11,8 @@
 <img width="60%" src="https://user-images.githubusercontent.com/66342017/197155503-1ab1b393-444a-496c-bdf4-69370e42ca75.gif"/>
 
 ##### Easy Use Guide
-- CustomData in 3D_FONT_BY_KurtSchuster.fbx [ alphabet asset ]
-- Keep Font Unity Scale { 0.2,0.2,0.2 }
-- Font position in Effector A
-- Effector A's Flattener Target Renderes add Your font mesh Renderer
+- 3D_FONT_BY_KurtSchuster.fbx [ A~Z alphabet asset ]
+- Keep Font Scale { 0.2,0.2,0.2 }
+- Position the font in the Effector A area
+- Effector A's Flattener Script => Target Renderes add Your font mesh Renderer
 <img width="800%" src="https://user-images.githubusercontent.com/66342017/197157151-3021a79a-3f19-474f-a709-0741bad40779.png"/>
