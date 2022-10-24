@@ -1,6 +1,6 @@
 # 3dFontEffect
 - Unity HDRP 2019.4 HDRP [ specific 2019.4.38f1 ]
-- Use Almost : https://github.com/keijiro/TestbedHDRP
+- Use: https://github.com/keijiro/TestbedHDRP
 - 3D Font Model : Kurt Schuster
 - this project just applied keijiro's technology to a 3d font
 ##### [caution]
