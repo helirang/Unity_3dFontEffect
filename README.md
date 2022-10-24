@@ -15,4 +15,4 @@
 - Keep Font Scale { 0.2,0.2,0.2 }
 - Position the font in the Effector A area
 - Effector A's Flattener Script => Target Renderes add Your font mesh Renderer
-<img width="800%" src="https://user-images.githubusercontent.com/66342017/197157151-3021a79a-3f19-474f-a709-0741bad40779.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/66342017/197157151-3021a79a-3f19-474f-a709-0741bad40779.png"/>
