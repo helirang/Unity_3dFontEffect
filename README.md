@@ -15,7 +15,7 @@
 <img width="60%" src="https://user-images.githubusercontent.com/66342017/197155503-1ab1b393-444a-496c-bdf4-69370e42ca75.gif"/>
 
 ##### Easy Use Guide
-- 3D_FONT_BY_KurtSchuster.fbx [ A~Z alphabet asset ]
+- A~Z alphabet asset  [3D_FONT_BY_KurtSchuster.fbx]
 - Keep Font Scale { 0.2,0.2,0.2 }
 - Position the font in the Effector A area
 - Effector A's Flattener Script => Target Renderes add Your font mesh Renderer
