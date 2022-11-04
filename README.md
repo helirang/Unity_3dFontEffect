@@ -4,7 +4,7 @@
 - 3D Font Model : Kurt Schuster
 - It is a simple project using keijiro's technology in 3d font.
 
-##### [caution]
+##### [caution by keijiro]
 - Although the geometry shader effects are fun and exciting to use, I don't recommend using them in production. The geometry shader is near-obsolete technology. You will meet several problems if you use it in your product.
 
 ##### IMG
